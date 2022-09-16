@@ -15,11 +15,9 @@ I'm a web developer, i'm graduade in industrial automatization
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on my 3D printing busines 
+👩‍💻 I'm currently working on Finandina as Frontend dev
 
-🧠 I'm currently learning ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-👯‍♀️ I'm looking to collaborate on frontend or full stack projects
+🧠 I'm currently learning ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🛠 Skills
-Javascript/Typescript, Html, Css, Python, C++, react, nodeJs, Wordpress, Mysql
+Javascript/Typescript, Html, Css, Python, C++, react, angular, vue, nodeJs, Mysql
