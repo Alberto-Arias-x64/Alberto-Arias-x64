@@ -20,4 +20,4 @@ I'm a web developer, i'm graduade in industrial automatization
 🧠 I'm currently learning ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🛠 Skills
-Javascript/Typescript, Html, Css, Python, C++, react, angular, vue, nodeJs, Mysql
+Javascript/Typescript, Html, Css, Python, C++, react, angular, vue, nodeJs, ExpressJs, Mysql
