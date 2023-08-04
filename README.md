@@ -17,7 +17,7 @@ I'm a web developer, i'm graduade in industrial automatization
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Finandina as Frontend dev
 
-🧠 I'm currently learning ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+🧠 I'm currently learning ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🛠 Skills
 Javascript/Typescript, Html, Css, Python, C++, react, angular, vue, nodeJs, Mysql
