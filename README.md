@@ -17,7 +17,7 @@ I'm a web developer, i'm graduade in industrial automatization
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working as Full Stack Freelance Dev
 
-🧠 I'm currently learning ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+🧠 I'm currently learning ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 🛠 Skills
 Javascript/Typescript, Html, Css, Python, GO, C#, React, Next, Angular, Astro, Vue2/3, nodeJs, ExpressJs, Mysql, SQLite, Firebase
