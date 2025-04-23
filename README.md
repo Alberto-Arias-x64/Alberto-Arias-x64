@@ -15,7 +15,7 @@ I'm a web developer, i'm graduade in industrial automatization
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Finandina as Frontend dev
+👩‍💻 I'm currently working as Full Stack Freelance Dev
 
 🧠 I'm currently learning ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
